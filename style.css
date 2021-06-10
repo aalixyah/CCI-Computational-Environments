@@ -1,0 +1,37 @@
+canvas{
+  position: fixed;
+  top: 0;
+  left: 0;
+
+}
+body{  
+  margin: 0;
+  text-align:center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+#overlay{
+
+  height: 100vh;
+  background-color: black;
+  color: aliceblue;
+
+}
+#startButton {
+
+  position: relative;
+  font-size: 30px;
+  font-family : inherit;
+  font-style: inherit;
+  transform: translateY(250px);
+  background-color: #000000;
+  color: aliceblue;
+  border-radius: 8px;
+}
+
+#h1{
+  
+  
+  font-style: normal;
+}
+
